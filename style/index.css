@@ -1,0 +1,50 @@
+.contact-btn:hover {
+  background-color: rgb(7, 1, 1);
+  color: rgb(218, 138, 255);
+  font-family: "source code pro";
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.intro {
+  font-size: 45px;
+  margin-right: 30px;
+}
+
+.main {
+  display: flex;
+  height: 555px;
+  width: 100%;
+  align-items: center;
+  padding: 100px;
+  justify-content: center;
+}
+
+.intro-btn {
+  padding: 10px;
+}
+
+.hire-btn {
+  background-color: rgb(66, 0, 97);
+  border-radius: 10px;
+  color: white;
+}
+
+.btn-box {
+  margin-top: 20px;
+  font-size: 25px;
+}
+
+.btn-box a:hover {
+  color: #b49eff;
+}
+
+.right {
+  height: fit-content;
+  margin-top: 175px;
+  margin-left: 200px;
+  webkit-box-shadow: 0px 0px 31px 8px rgba(140, 56, 173, 0.9);
+  moz-box-shadow: 0px 0px 31px 8px rgba(140, 56, 173, 0.9);
+  box-shadow: 0px 0px 31px 8px rgba(140, 56, 173, 0.9);
+  border: 2px solid purple;
+}
